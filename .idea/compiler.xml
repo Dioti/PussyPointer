@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PussyPointer" target="17" />
+      <module name="PussyPointer" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
